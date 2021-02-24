@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">\'La Cezar\' Label Printer</string>
+    <string name="product_name">Product name</string>
+    <string name="available_days">Available days</string>
+    <string name="nr_of_copies">Nr. of copies</string>
+    <string name="_1">1</string>
+    <string name="couldntconnect">Couldn not connect to printer through bluetooth.</string>
+</resources>
